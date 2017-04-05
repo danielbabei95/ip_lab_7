@@ -4,6 +4,9 @@ Relevant data found:
 Telefoane utile institutii
 Program institutii publice
 Buget si achizitii publice
+Harta interactiva a orasului
+ - cuprinde toate atractiile turistice existente
+ - cuprinde toate parcurile si rezervatiile naturale
 Detali pasapoarte
 Detalii permise
 
