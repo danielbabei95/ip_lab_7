@@ -1,0 +1,9 @@
+We have grouped the categories of risks according to the mean variables that entered into their composition as it follows:
+- organisational risk
+- environment risk
+- competitiveness risk
+- economic risk
+- political factors
+- infrastructure
+- circumstantial risk
+- business insufficiencies and specific (local) risk
