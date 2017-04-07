@@ -1,4 +1,6 @@
-We have grouped the categories of risks according to the mean variables that entered into their composition as it follows:
+When we think about the travel agencies ,we associate them with tour guide that might lead you to the perfect vacation.Of course this statement might be true but we can't just ignore the facts that we put our trust(money) into their hands and while doing that we are exposed to different types of risks.
+
+We have grouped the categories of risks that might concern the travel agencies as it follows:
 - organisational risk
 - environment risk
 - competitiveness risk
@@ -7,3 +9,70 @@ We have grouped the categories of risks according to the mean variables that ent
 - infrastructure
 - circumstantial risk
 - business insufficiencies and specific (local) risk
+
+
+Factor 1 - Organizational risk (Internal business risk)  
+                  -Lack of funding for product development 
+                  -Theft in business by tourists and/or staff members
+                  -Lack of proper financial systems 
+                  -Insufficient funding for training 
+                  -Unable to fulfill needs of tourists 
+
+Factor 2 - Environmental (Nature) 
+                  -Water pollution 
+                  -Air pollution 
+                  -Fire
+                  -Natural disasters 
+                  -Climate change 
+                  
+Factor 3 - Competitiveness 
+                  -The range of products belonging to competitors
+                  -Distance from main competitor 
+                  -Prices of competitors
+                  -Technological changes e.g reservation systems, new programs 
+                  -Too high prices in tourism industry 
+                  -Increase in fuel cost 
+                                   
+Factor 4 e Economic risk 
+                  -Increase in fuel cost  
+                  -Decrease in disposable income 
+                  -Inflation 
+                  -Cost of transportation 
+                  -Interest rates 
+                  -Currency fluctuations 
+                  
+Factor 5 - Political factors
+                  -Political instability in neighboring countries 
+                  -Legislation 
+                  -Terrorist activities 
+                  -Political instability in Romania 
+                  -Wars/conflicts 
+                  
+Factor 6 - Infrastructure 
+                  -Air line safety 
+                  -Airport safety and security 
+                  -Lack of qualified staff 
+                  -Lack of experienced staff 
+                  -Road safety 
+                  
+Factor 7 - Circumstantial risk 
+                  -Increased competition, (inter)nationally 
+                  -Stress 
+                  -Decreasing leisure time of tourists 
+                  
+Factor 8 - Business insufficiencies 
+                  -Urbanization 
+                  -Crime in general
+                  -Repeat business vs new business 
+                  -Amount of overtime worked by employees 
+                  -Image of the country/destination 
+                  -Range of products too limited 
+                  -Aging tourist markets 
+                  
+Factor 9 - Specific (local) risk 
+                  -Insufficient marketing by local authorities 
+                  -Customer complaints 
+                  -Carrying capacity e too many tourists/visitors 
+                  -Diseases 
+                  -Seasonality
+
